@@ -1,0 +1,13 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="logger" type="docker">
+      <configuration>
+        <option name="certificatesPath" value="C:\Users\ambrus\.docker\machine\machines\default" />
+        <option name="composeExecPath" value="C:\Program Files\Docker Toolbox\docker-compose.exe" />
+        <option name="pathMappings">
+          <list />
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>

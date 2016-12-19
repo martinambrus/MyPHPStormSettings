@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="base" type="Dockerfile" />
+      <mapping ext="prod" type="Dockerfile" />
+      <mapping ext="dev" type="Dockerfile" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
