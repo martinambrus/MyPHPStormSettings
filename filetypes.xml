@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="production" type="Dockerfile" />
       <mapping ext="base" type="Dockerfile" />
       <mapping ext="prod" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
+      <mapping ext="development" type="Dockerfile" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
     </extensionMap>
