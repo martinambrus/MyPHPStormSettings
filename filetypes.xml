@@ -8,6 +8,7 @@
       <mapping ext="development" type="Dockerfile" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
