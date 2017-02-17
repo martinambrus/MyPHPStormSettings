@@ -6,6 +6,9 @@
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord" />
+  <action id="JS.TypeScript.Compile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
@@ -14,6 +17,7 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
+  <action id="Refactorings.QuickListPopupAction" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
