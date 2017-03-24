@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="FILE_MASK" value="*.js" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -11,8 +14,10 @@
       <mask>*.java</mask>
       <mask>*.css</mask>
       <mask>*.php</mask>
-      <mask>*.ts</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
