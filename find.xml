@@ -15,10 +15,14 @@
       <mask>*.css</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.inc</mask>
+      <mask>*.in</mask>
+      <mask>*.i</mask>
+      <mask>*.*</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
     </recentFileMasks>
