@@ -1,7 +1,9 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
-      <configuration />
+    <remote-server name="windows" type="docker">
+      <configuration>
+        <option name="certificatesPath" value="C:\Users\krakatice\.docker\machine\machines\default" />
+      </configuration>
     </remote-server>
   </component>
 </application>
