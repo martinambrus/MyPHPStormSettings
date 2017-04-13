@@ -5,5 +5,10 @@
         <option name="certificatesPath" value="C:\Users\krakatice\.docker\machine\machines\default" />
       </configuration>
     </remote-server>
+    <remote-server name="linux" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
