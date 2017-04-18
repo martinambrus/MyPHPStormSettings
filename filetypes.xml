@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="3" type="Dockerfile" />
+      <mapping ext="base" type="Dockerfile" />
+      <mapping ext="prod" type="Dockerfile" />
+      <mapping ext="dev" type="Dockerfile" />
+      <mapping ext="production" type="Dockerfile" />
+      <mapping ext="development" type="Dockerfile" />
+      <mapping pattern="pic" type="PLAIN_TEXT" />
+      <mapping pattern="logs-go-here" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping pattern="IMonitor" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>
