@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy 1" parent="Default for XWin">
+  <action id="ActivateDockerToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
@@ -11,6 +14,7 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Console.TableResult.SetDefault" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
