@@ -21,12 +21,12 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.kjs</mask>
       <mask>*.kj</mask>
       <mask>*.k</mask>
       <mask>*.</mask>
+      <mask>*.ts</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
