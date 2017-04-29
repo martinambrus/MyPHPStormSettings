@@ -6,6 +6,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="CallHierarchy" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
