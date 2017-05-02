@@ -8,6 +8,7 @@
       <mapping ext="production" type="Dockerfile" />
       <mapping ext="development" type="Dockerfile" />
       <mapping pattern="pic" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="logs-go-here" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
