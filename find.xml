@@ -27,6 +27,7 @@
       <mask>*.ts</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
+      <mask>*</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
