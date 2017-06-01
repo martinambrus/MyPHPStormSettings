@@ -22,4 +22,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="/var/www/html" />
+  </component>
 </application>
