@@ -32,8 +32,8 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.p</mask>
-      <mask>*.*</mask>
       <mask>*.</mask>
+      <mask>*.*</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
