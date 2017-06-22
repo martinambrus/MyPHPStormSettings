@@ -28,11 +28,11 @@
       <mask>*php</mask>
       <mask>*</mask>
       <mask>*.*id=&quot;ArcObjectNumber&quot;</mask>
-      <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
+      <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.*</mask>
     </recentFileMasks>
