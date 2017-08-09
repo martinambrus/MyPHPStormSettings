@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -28,13 +28,13 @@
       <mask>*php</mask>
       <mask>*</mask>
       <mask>*.*id=&quot;ArcObjectNumber&quot;</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.*</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
