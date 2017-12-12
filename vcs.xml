@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/foliovision/fv-wordpress-flowplayer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/foliovision/fv-licensing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\krakatice\workspace\foliovision-sticky-vid\wp-content\plugins" />
