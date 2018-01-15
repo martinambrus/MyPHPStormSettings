@@ -74,9 +74,13 @@
           <option name="url" value="git@bitbucket.org:zathruswriter/m-and-m.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git-codecommit.eu-central-1.amazonaws.com/v1/repos/AutoBooking-EU-Front-End" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\krakatice\workspace\" />
+    <option name="cloneParentDir" value="C:\Users\krakatice\workspace\m-and-m" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
