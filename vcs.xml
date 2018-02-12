@@ -106,8 +106,32 @@
           <option name="url" value="https://github.com/foliovision/fv-player-pay-per-view.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/HelixOne/leto-serverless.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/maciejtreder/angular-universal-pwa.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mya-ake/angular-universal-on-lambda.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/martinambrus/angular-universal-pwa.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:martinambrus/angular-universal-pwa.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/martinambrus/angular-external-module.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\krakatice\workspace\foliovision-sticky-vid\wp-content\plugins" />
+    <option name="cloneParentDir" value="C:\Users\martin\workspace\" />
   </component>
 </application>
