@@ -130,8 +130,16 @@
           <option name="url" value="https://github.com/martinambrus/angular-external-module.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git-codecommit.us-east-2.amazonaws.com/v1/repos/autobooking.eu-docs" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git-codecommit.us-east-2.amazonaws.com/v1/repos/autobooking.eu-labs" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\martin\workspace\" />
+    <option name="cloneParentDir" value="C:\Users\martin\workspace\autobooking.eu-new" />
   </component>
 </application>
