@@ -146,6 +146,10 @@
           <option name="url" value="https://github.com/AngularClass/angular-starter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bleenco/angular-universal-seed.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\martin\workspace\" />
