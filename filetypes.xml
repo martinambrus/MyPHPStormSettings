@@ -1,12 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="tpl" type="PHP" />
       <mapping pattern=".jscramblerrc" type="PLAIN_TEXT" />
       <mapping pattern="fv_player_pro_api" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
-      <removed_mapping ext="tpl" type="Smarty" />
     </extensionMap>
   </component>
 </application>
