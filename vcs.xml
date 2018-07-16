@@ -162,8 +162,12 @@
           <option name="url" value="git@gitlab.com:martinambrus/auto-booking.eu-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:foliovision/fv-player-pro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\krakatice\workspace" />
+    <option name="cloneParentDir" value="C:\Users\martin\workspace\foliovision-sticky-vid\wp-content\plugins" />
   </component>
 </application>
