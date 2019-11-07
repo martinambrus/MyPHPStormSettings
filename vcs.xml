@@ -194,9 +194,13 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="zathruswriter" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/foliovision/fv-tw2bc-frontend" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\xampp\htdocs\tests" />
+    <option name="cloneParentDir" value="C:\xampp\htdocs\fv-player\wp-content\plugins" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
