@@ -1,12 +1,4 @@
 <application>
-  <component name="AdvancedSettings">
-    <option name="settings">
-      <map>
-        <entry key="ide.suppress.double.click.handler" value="true" />
-        <entry key="localHistory.daysToKeep" value="35" />
-      </map>
-    </option>
-  </component>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
     <option name="autoSaveFiles" value="false" />
