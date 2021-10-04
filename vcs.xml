@@ -282,9 +282,13 @@
           <option name="url" value="https://github.com/martinambrus/feedit.sk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/foliovision/fv-player-bunny-stream.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\xampp\htdocs" />
+    <option name="cloneParentDir" value="C:\xampp8\htdocs\fv-player\wp-content\plugins" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
