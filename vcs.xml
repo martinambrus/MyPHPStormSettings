@@ -290,9 +290,13 @@
           <option name="url" value="https://github.com/foliovision/fv-player-coconut-pro.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/thomasdeppisch/videojs-xr" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\xampp8\htdocs\fv-player\wp-content\plugins" />
+    <option name="cloneParentDir" value="C:\OpenServer\domains\folio.local\wp-content\plugins" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
